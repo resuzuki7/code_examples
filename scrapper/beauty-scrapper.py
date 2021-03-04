@@ -1,9 +1,5 @@
 # Web scrapper to get the list of beauty shots from IWCOA Marketing portal
 
-# import requests
-# Skipping getting the actual file.
-# This file is obtained by exporting the HTML of the page via inspect.
-# This cant be done through a direct request at the moment
 
 from bs4 import BeautifulSoup
 
