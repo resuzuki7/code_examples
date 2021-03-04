@@ -1,3 +1,5 @@
+This was a take home example provided by a friend for his hiring process in his ML team.
+
 # Problem
 
 Given a string, identify the IP Addresses and Names.
